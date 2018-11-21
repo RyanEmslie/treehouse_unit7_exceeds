@@ -23,7 +23,7 @@ app.use((req, res, next) => {
 });
 
 //honestly still don't have a complete grasp on "env" property
-//taken from examples
+//I believe node.js runs development as default
 if (app.get("env") === "development") {
         //error handler requires four arguments
   app.use((err, req, res, next) => {
@@ -36,13 +36,6 @@ if (app.get("env") === "development") {
   });
 }
 
-app.use((err, req, res, next) => {
-  res.status(err.status || 500);
-  res.render("error", {
-    message: err.message,
-    error: {}
-  });
-});
 
 app.listen(3000, () => {
   console.log("The application is running on localhost:3000!");
