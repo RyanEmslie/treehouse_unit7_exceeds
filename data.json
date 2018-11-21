@@ -3,44 +3,44 @@
         {
                 "id": 0,
                 "project_name":"Random Quote Generator",
-                "description":"Random Quote Generator",
-                "technologies":"I used HTML",
+                "description":"An app that displays random famous quotes each time a button is clicked.",
+                "technologies":["HTML", "CSS", "JavaScript"],
                 "live_link":"https://ryanemslie.github.io/Unit1/index.html",
                 "github_link":"https://github.com/RyanEmslie/Project1-Button",
                 "image_urls": ["project1a.png", "project1b.png", "project1c.png"]
         },
         {
                 "id": 1,
-                "project_name":"Pagination",
-                "description":"This is project 2",
-                "technologies":"I used JavaScript",
+                "project_name":"JavaScript Pagination",
+                "description":"Pagination enhances the usability of a web page that is displaying way too much information all at once. Long lists don't make for a good user experience on a web page.",
+                "technologies":["HTML", "CSS", "JavaScript"],
                 "live_link":"https://ryanemslie.github.io/Unit2/index.html",
                 "github_link":"https://github.com/RyanEmslie/Project2",
                 "image_urls":["project2a.png", "project2b.png", "project2c.png"]
         },
         {
                 "id": 2,
-                "project_name":"Form",
-                "description":"This is Project 3",
-                "technologies":"I used HTML",
+                "project_name":"Javascript Registration Form",
+                "description":"JavaScript enhanced interactive registration form with realtime validation.",
+                "technologies":["HTML", "CSS", "JavaScript"],
                 "live_link":"https://ryanemslie.github.io/Unit3/index.html",
                 "github_link":"https://github.com/RyanEmslie/treehouse_unit3_project",
                 "image_urls":["project3a.png", "project3b.png", "project3c.png"]
         },
         {
                 "id": 3,
-                "project_name":"Project 4",
-                "description":"This is Project 4",
-                "technologies":"I used HTML",
+                "project_name":"Tic-Tac-Toe",
+                "description":"A functional, PvP or PvC Tic Tac Toe game.  JavaScript data structures like arrays and objects as well as DOM-manipulation was used with plain JavaScript to complete this project.",
+                "technologies":["HTML", "CSS", "JavaScript", "Game Theory"],
                 "live_link":"https://ryanemslie.github.io/Unit4/index.html",
                 "github_link":"https://github.com/RyanEmslie/treehouse_unit_4_vanilla",
                 "image_urls":["project4a.png", "project4b.png", "project4c.png"]
         },
         {
                 "id": 4,
-                "project_name":"Project 5",
-                "description":"This is Project 5",
-                "technologies":"I used HTML",
+                "project_name":"Employee Directory",
+                "description":"This project connects to a remote API to download randomized fake employee JSON data.  The JSON data is parsed and displayed in a directory.  The directory features a search function and a detailed employee modal view.",
+                "technologies":["HTML", "CSS", "JavaScript", "API", "JSON"],
                 "live_link":"https://ryanemslie.github.io/Unit5/index.html",
                 "github_link":"https://github.com/RyanEmslie/tree_house_unit_5_exceeds",
                 "image_urls":["project5a.png", "project5b.png", "project5c.png"]

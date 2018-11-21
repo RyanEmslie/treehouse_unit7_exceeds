@@ -1,10 +1,8 @@
 const express = require("express");
 const app = express();
-// const path = require('path');
 
 //view engine setup
 app.set("view engine", "pug");
-// app.set('views', './views');
 app.use(express.static("public"));
 
 const mainRoutes = require("./routes");
@@ -15,7 +13,6 @@ app.use("/project", projectsRoutes);
 
 // catch 404 and forward to error handler
 //throws a unique error and assigns an error status code of 404
-
 app.use((req, res, next) => {
   const err = new Error("Uh Oh! Path not found!");
   err.status = 404;
@@ -35,7 +32,6 @@ if (app.get("env") === "development") {
     });
   });
 }
-
 
 app.listen(3000, () => {
   console.log("The application is running on localhost:3000!");

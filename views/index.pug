@@ -1,6 +1,6 @@
 extends layout.pug
 
-
+//- I wanted to attempt using a mixin for this assignment
 mixin projectCell(id, imageUrl, title)
     .cell
         a(href='http://localhost:3000/project/' + id + '')
@@ -13,15 +13,15 @@ block content
   article.grid-container.portfolio-intro
     div
       
-      h1 My Portfolio
+      h1 Portfolio
  
       p.lead.text-light
-        | This is my portfolio so far...
+        | This is a sample of the types of projects that I have completed while studying the JavaScript Full Stack Development track at Treehouse.  Please check back for my latest work...
   article.grid-container.portfolio-index
     
     .grid-x.grid-margin-x.small-up-2.medium-up-2.large-up-3
 
-     
+      //- this is the each loop I used combined with a mixin
       each project in jsonData
         +projectCell(project.id, project.image_urls[0], project.project_name)
       

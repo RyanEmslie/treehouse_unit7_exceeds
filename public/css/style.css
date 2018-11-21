@@ -1,11 +1,11 @@
 
 h1,h2,h3,h4,h5,p{
-  font-family: 'Merriweather', serif;
+  font-family: 'Open Sans';
 }
 
   h5{
     font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    letter-spacing: 2.5px;
+    letter-spacing: .5px;
     -webkit-text-transform: uppercase;
     text-transform: uppercase;
   }
@@ -65,7 +65,7 @@ a:hover{
 
   .portfolio-me p{
     font-size: 14px;
-    color: #999;
+    /* color: #999; */
   }
 
   .portfolio-me a{

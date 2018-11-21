@@ -1,0 +1,79 @@
+
+/* project card */
+.grid-x.grid-margin-x.small-up-2.medium-up-2.large-up-3 .cell {
+  box-shadow: 0px 0px 2px 1px #fff;
+
+  background-color: rgba(255, 255, 255, 0.8);
+  text-align: center;
+  margin: 25px;
+}
+
+.grid-x.grid-margin-x.small-up-2.medium-up-2.large-up-3 .cell:hover {
+  box-shadow: 0px 0px 0px 0px #000000;
+}
+
+
+h1 {
+  font-family: "Permanent Marker";
+  text-shadow: 2px 2px 2px #000;
+  color: #bedce9;
+  font-size: 80px;
+}
+
+h6 {
+  color: white;
+}
+
+body {
+  background-color: #121213;
+}
+
+p {
+  color: white;
+}
+
+ul a:hover, a:visited{
+        color: #bedce9;
+}
+.portfolio-project li {
+  color: #bedce9;
+}
+
+.portfolio-breadcrumb a {
+  color: white;
+}
+
+.button.linkedin {
+  background-color: #0077b5;
+}
+
+.button.twitter {
+  background-color: #58a5ec;
+}
+
+.button.github {
+  background-color: #609;
+}
+
+.button.live {
+  background-color: forestgreen;
+}
+
+
+.portfolio-intro p {
+        font-family: "Open Sans";
+        color: white;
+        font-size: 20px;
+}
+
+.text-light {
+  font-size: 18px;
+}
+
+.portfolio-me p {
+  font-size: 18px;
+}
+
+.portfolio-bio p {
+  font-size: 20px;
+}
