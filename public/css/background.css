@@ -32,9 +32,15 @@ p {
   color: white;
 }
 
-ul a:hover, a:visited{
+ul a:hover {
         color: #bedce9;
 }
+
+ul a:visited {
+  color: #bedce9;
+}
+
+
 .portfolio-project li {
   color: #bedce9;
 }
@@ -76,4 +82,8 @@ ul a:hover, a:visited{
 
 .portfolio-bio p {
   font-size: 20px;
+}
+
+pre {
+  color: white;
 }
