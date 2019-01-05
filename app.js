@@ -1,5 +1,6 @@
 const express = require("express");
 const app = express();
+const PORT = process.env.PORT || 3000
 
 //view engine setup
 app.set("view engine", "pug");
@@ -33,6 +34,6 @@ if (app.get("env") === "development") {
   });
 }
 
-app.listen(3000, () => {
+app.listen(PORT, () => {
   console.log("The application is running on localhost:3000!");
 });
