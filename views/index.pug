@@ -3,7 +3,7 @@ extends layout.pug
 //- I wanted to attempt using a mixin for this assignment
 mixin projectCell(id, imageUrl, title)
     .cell
-        a(href='http://localhost:3000/project/' + id + '')
+        a(href='/project/' + id + '')
           img(src="/images/" + imageUrl)
           h5= title
 

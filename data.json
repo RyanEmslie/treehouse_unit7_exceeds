@@ -7,7 +7,7 @@
                 "technologies":["HTML", "CSS", "JavaScript"],
                 "live_link":"https://ryanemslie.github.io/Unit1/index.html",
                 "github_link":"https://github.com/RyanEmslie/Project1-Button",
-                "image_urls": ["project1a.PNG", "project1b.png", "project1c.png"]
+                "image_urls": ["project1a.PNG", "project1b.PNG", "project1c.PNG"]
         },
         {
                 "id": 1,
@@ -16,7 +16,7 @@
                 "technologies":["HTML", "CSS", "JavaScript"],
                 "live_link":"https://ryanemslie.github.io/Unit2/index.html",
                 "github_link":"https://github.com/RyanEmslie/Project2",
-                "image_urls":["project2a.png", "project2b.png", "project2c.png"]
+                "image_urls":["project2a.PNG", "project2b.PNG", "project2c.PNG"]
         },
         {
                 "id": 2,
@@ -25,7 +25,7 @@
                 "technologies":["HTML", "CSS", "JavaScript"],
                 "live_link":"https://ryanemslie.github.io/Unit3/index.html",
                 "github_link":"https://github.com/RyanEmslie/treehouse_unit3_project",
-                "image_urls":["project3a.png", "project3b.png", "project3c.png"]
+                "image_urls":["project3a.PNG", "project3b.PNG", "project3c.PNG"]
         },
         {
                 "id": 3,
@@ -34,7 +34,7 @@
                 "technologies":["HTML", "CSS", "JavaScript", "Game Theory"],
                 "live_link":"https://ryanemslie.github.io/Unit4/index.html",
                 "github_link":"https://github.com/RyanEmslie/treehouse_unit_4_vanilla",
-                "image_urls":["project4a.png", "project4b.png", "project4c.png"]
+                "image_urls":["project4a.PNG", "project4b.PNG", "project4c.PNG"]
         },
         {
                 "id": 4,
@@ -43,7 +43,7 @@
                 "technologies":["HTML", "CSS", "JavaScript", "API", "JSON"],
                 "live_link":"https://ryanemslie.github.io/Unit5/index.html",
                 "github_link":"https://github.com/RyanEmslie/tree_house_unit_5_exceeds",
-                "image_urls":["project5a.png", "project5b.png", "project5c.png"]
+                "image_urls":["project5a.PNG", "project5b.PNG", "project5c.PNG"]
         }
 ]
 }
