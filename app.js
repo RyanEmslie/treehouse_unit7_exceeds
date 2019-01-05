@@ -6,7 +6,7 @@ const PORT = process.env.PORT || 3000
 
 //view engine setup
 app.set("view engine", "pug");
-app.use(express.static("/public"));
+app.use(express.static("public"));
 
 const mainRoutes = require("./routes");
 const projectsRoutes = require("./routes/project");

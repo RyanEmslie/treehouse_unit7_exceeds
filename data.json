@@ -7,7 +7,7 @@
                 "technologies":["HTML", "CSS", "JavaScript"],
                 "live_link":"https://ryanemslie.github.io/Unit1/index.html",
                 "github_link":"https://github.com/RyanEmslie/Project1-Button",
-                "image_urls": ["project1a.png", "project1b.png", "project1c.png"]
+                "image_urls": ["project1a.PNG", "project1b.png", "project1c.png"]
         },
         {
                 "id": 1,
