@@ -28,7 +28,7 @@ h1,h2,h3,h4,h5,p{
 }
 
 .text-light{
-  color: #666;
+  color: #bedce9;
 }
 
 .button{
@@ -148,4 +148,8 @@ a:hover{
 
 .portfolio-bio{
     line-height: 25px;
+}
+
+a.about-class {
+  color: white;
 }

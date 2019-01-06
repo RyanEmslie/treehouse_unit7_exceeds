@@ -11,7 +11,7 @@
         },
         {
                 "id": 1,
-                "project_name":"Dynamic Libary Manager System",
+                "project_name":"Dynamic Libary Manager App",
                 "description":"This project creates a library managment system website that dynamically displays database entries.  The librays managments systme allows for creating, reading, updating, and deleting data.  The final app is deployed on Heroku.",
                 "technologies":["HTML", "CSS", "JavaScript", "Express", "Pug", "Sequelize", "Sqlite","Heroku"],
                 "live_link":"https://emslie-lib-manager.herokuapp.com/",
