@@ -11,17 +11,17 @@
         },
         {
                 "id": 1,
-                "project_name":"Libary Manager",
-                "description":"This project connects to a remote API to download randomized fake employee JSON data.  The JSON data is parsed and displayed in a directory.  The directory features a search function and a detailed employee modal view.",
-                "technologies":["HTML", "CSS", "JavaScript", "API", "JSON"],
+                "project_name":"Dynamic Libary Manager System",
+                "description":"This project creates a library managment system website that dynamically displays database entries.  The librays managments systme allows for creating, reading, updating, and deleting data.  The final app is deployed on Heroku.",
+                "technologies":["HTML", "CSS", "JavaScript", "Express", "Pug", "Sequelize", "Sqlite","Heroku"],
                 "live_link":"https://emslie-lib-manager.herokuapp.com/",
-                "github_link":"https://github.com/RyanEmslie/tree_house_unit_5_exceeds",
+                "github_link":"https://github.com/RyanEmslie/treehouse_unit10_exceeds",
                 "image_urls":["project1a.PNG", "project1b.PNG", "project1c.PNG"]
         },
         {
                 "id": 2,
                 "project_name":"Employee Directory",
-                "description":"This project connects to a remote API to download randomized fake employee JSON data.  The JSON data is parsed and displayed in a directory.  The directory features a search function and a detailed employee modal view.",
+                "description":"This project connects to a remote API that downloads randomized fake employee data in JSON format.  The JSON data is parsed and displayed in a directory.  The directory features a search function and a detailed employee modal view.",
                 "technologies":["HTML", "CSS", "JavaScript", "API", "JSON"],
                 "live_link":"https://ryanemslie.github.io/Unit5/index.html",
                 "github_link":"https://github.com/RyanEmslie/tree_house_unit_5_exceeds",
@@ -39,7 +39,7 @@
         {
                 "id": 4,
                 "project_name":"Tic-Tac-Toe",
-                "description":"A functional, PvP or PvC Tic Tac Toe game.  JavaScript data structures like arrays and objects as well as DOM-manipulation was used with plain JavaScript to complete this project.",
+                "description":"A functional, PvP or PvC Tic Tac Toe game.  JavaScript data structures like arrays and objects as well as DOM-manipulation was used with vanilla JavaScript to complete this project.",
                 "technologies":["HTML", "CSS", "JavaScript", "Game Theory"],
                 "live_link":"https://ryanemslie.github.io/Unit4/index.html",
                 "github_link":"https://github.com/RyanEmslie/treehouse_unit_4_vanilla",
