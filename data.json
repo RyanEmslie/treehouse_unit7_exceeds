@@ -47,19 +47,19 @@
         },
         {
                 "id": 5,
-                "project_name":"Employee Directory",
+                "project_name":"Libary Manager",
                 "description":"This project connects to a remote API to download randomized fake employee JSON data.  The JSON data is parsed and displayed in a directory.  The directory features a search function and a detailed employee modal view.",
                 "technologies":["HTML", "CSS", "JavaScript", "API", "JSON"],
-                "live_link":"https://ryanemslie.github.io/Unit5/index.html",
+                "live_link":"https://https://emslie-lib-manager.herokuapp.com/",
                 "github_link":"https://github.com/RyanEmslie/tree_house_unit_5_exceeds",
                 "image_urls":["project5a.PNG", "project5b.PNG", "project5c.PNG"]
         },
         {
                 "id": 6,
-                "project_name":"Employee Directory",
+                "project_name":"React App",
                 "description":"This project connects to a remote API to download randomized fake employee JSON data.  The JSON data is parsed and displayed in a directory.  The directory features a search function and a detailed employee modal view.",
                 "technologies":["HTML", "CSS", "JavaScript", "API", "JSON"],
-                "live_link":"https://ryanemslie.github.io/Unit5/index.html",
+                "live_link":"https://https://emslie-react-sample.herokuapp.com/",
                 "github_link":"https://github.com/RyanEmslie/tree_house_unit_5_exceeds",
                 "image_urls":["project5a.PNG", "project5b.PNG", "project5c.PNG"]
         }
