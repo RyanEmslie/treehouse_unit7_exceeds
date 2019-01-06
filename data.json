@@ -1,49 +1,13 @@
 {
 "property": [
         {
-                "id": 6,
-                "project_name":"Random Quote Generator",
-                "description":"An app that displays random famous quotes each time a button is clicked.",
-                "technologies":["HTML", "CSS", "JavaScript"],
-                "live_link":"https://ryanemslie.github.io/Unit1/index.html",
-                "github_link":"https://github.com/RyanEmslie/Project1-Button",
-                "image_urls": ["project1a.PNG", "project1b.PNG", "project1c.PNG"]
-        },
-        {
-                "id": 5,
-                "project_name":"JavaScript Pagination",
-                "description":"Pagination enhances the usability of a web page that is displaying way too much information all at once. Long lists don't make for a good user experience on a web page.",
-                "technologies":["HTML", "CSS", "JavaScript"],
-                "live_link":"https://ryanemslie.github.io/Unit2/index.html",
-                "github_link":"https://github.com/RyanEmslie/Project2",
-                "image_urls":["project2a.PNG", "project2b.PNG", "project2c.PNG"]
-        },
-        {
-                "id": 2,
-                "project_name":"Javascript Registration Form",
-                "description":"JavaScript enhanced interactive registration form with realtime validation.",
-                "technologies":["HTML", "CSS", "JavaScript"],
-                "live_link":"https://ryanemslie.github.io/Unit3/index.html",
-                "github_link":"https://github.com/RyanEmslie/treehouse_unit3_project",
-                "image_urls":["project3a.PNG", "project3b.PNG", "project3c.PNG"]
-        },
-        {
-                "id": 3,
-                "project_name":"Tic-Tac-Toe",
-                "description":"A functional, PvP or PvC Tic Tac Toe game.  JavaScript data structures like arrays and objects as well as DOM-manipulation was used with plain JavaScript to complete this project.",
-                "technologies":["HTML", "CSS", "JavaScript", "Game Theory"],
-                "live_link":"https://ryanemslie.github.io/Unit4/index.html",
-                "github_link":"https://github.com/RyanEmslie/treehouse_unit_4_vanilla",
-                "image_urls":["project4a.PNG", "project4b.PNG", "project4c.PNG"]
-        },
-        {
-                "id": 4,
-                "project_name":"Employee Directory",
-                "description":"This project connects to a remote API to download randomized fake employee JSON data.  The JSON data is parsed and displayed in a directory.  The directory features a search function and a detailed employee modal view.",
-                "technologies":["HTML", "CSS", "JavaScript", "API", "JSON"],
-                "live_link":"https://ryanemslie.github.io/Unit5/index.html",
-                "github_link":"https://github.com/RyanEmslie/tree_house_unit_5_exceeds",
-                "image_urls":["project5a.PNG", "project5b.PNG", "project5c.PNG"]
+                "id": 0,
+                "project_name":"React App",
+                "description":"This project produces an image gallery built with React, the Create React App and React Router modules.  Axios was implemented to fetch data from the Flickr API and used to display images in the app.  The completed React app was deployed on Heroku.",
+                "technologies":["JSX", "CSS", "JavaScript", "React", "Create-React-App", "AXIOS", "Heroku"],
+                "live_link":"https://emslie-react-sample.herokuapp.com/",
+                "github_link":"https://github.com/RyanEmslie/treehouse_unit9_exceeds",
+                "image_urls":["project0a.PNG", "project0b.PNG", "project0c.PNG"]
         },
         {
                 "id": 1,
@@ -52,16 +16,52 @@
                 "technologies":["HTML", "CSS", "JavaScript", "API", "JSON"],
                 "live_link":"https://emslie-lib-manager.herokuapp.com/",
                 "github_link":"https://github.com/RyanEmslie/tree_house_unit_5_exceeds",
+                "image_urls":["project1a.PNG", "project1b.PNG", "project1c.PNG"]
+        },
+        {
+                "id": 2,
+                "project_name":"Employee Directory",
+                "description":"This project connects to a remote API to download randomized fake employee JSON data.  The JSON data is parsed and displayed in a directory.  The directory features a search function and a detailed employee modal view.",
+                "technologies":["HTML", "CSS", "JavaScript", "API", "JSON"],
+                "live_link":"https://ryanemslie.github.io/Unit5/index.html",
+                "github_link":"https://github.com/RyanEmslie/tree_house_unit_5_exceeds",
+                "image_urls":["project2a.PNG", "project2b.PNG", "project2c.PNG"]
+        },
+        {
+                "id": 3,
+                "project_name":"Javascript Registration Form",
+                "description":"JavaScript enhanced interactive registration form with realtime validation.",
+                "technologies":["HTML", "CSS", "JavaScript"],
+                "live_link":"https://ryanemslie.github.io/Unit3/index.html",
+                "github_link":"https://github.com/RyanEmslie/treehouse_unit3_project",
+                "image_urls":["project3a.PNG", "project3b.PNG", "project3c.PNG"]
+        },
+        {
+                "id": 4,
+                "project_name":"Tic-Tac-Toe",
+                "description":"A functional, PvP or PvC Tic Tac Toe game.  JavaScript data structures like arrays and objects as well as DOM-manipulation was used with plain JavaScript to complete this project.",
+                "technologies":["HTML", "CSS", "JavaScript", "Game Theory"],
+                "live_link":"https://ryanemslie.github.io/Unit4/index.html",
+                "github_link":"https://github.com/RyanEmslie/treehouse_unit_4_vanilla",
+                "image_urls":["project4a.PNG", "project4b.PNG", "project4c.PNG"]
+        },
+        {
+                "id": 5,
+                "project_name":"JavaScript Pagination",
+                "description":"Pagination enhances the usability of a web page that is displaying way too much information all at once. Long lists don't make for a good user experience on a web page.",
+                "technologies":["HTML", "CSS", "JavaScript"],
+                "live_link":"https://ryanemslie.github.io/Unit2/index.html",
+                "github_link":"https://github.com/RyanEmslie/Project2",
                 "image_urls":["project5a.PNG", "project5b.PNG", "project5c.PNG"]
         },
         {
-                "id": 0,
-                "project_name":"React App",
-                "description":"This project connects to a remote API to download randomized fake employee JSON data.  The JSON data is parsed and displayed in a directory.  The directory features a search function and a detailed employee modal view.",
-                "technologies":["HTML", "CSS", "JavaScript", "API", "JSON"],
-                "live_link":"https://emslie-react-sample.herokuapp.com/",
-                "github_link":"https://github.com/RyanEmslie/tree_house_unit_5_exceeds",
-                "image_urls":["project5a.PNG", "project5b.PNG", "project5c.PNG"]
+                "id": 6,
+                "project_name":"Random Quote Generator",
+                "description":"An app that displays random famous quotes each time a button is clicked.",
+                "technologies":["HTML", "CSS", "JavaScript"],
+                "live_link":"https://ryanemslie.github.io/Unit1/index.html",
+                "github_link":"https://github.com/RyanEmslie/Project1-Button",
+                "image_urls": ["project6a.PNG", "project6b.PNG", "project6c.PNG"]
         }
 ]
 }
