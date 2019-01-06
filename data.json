@@ -1,7 +1,7 @@
 {
 "property": [
         {
-                "id": 0,
+                "id": 6,
                 "project_name":"Random Quote Generator",
                 "description":"An app that displays random famous quotes each time a button is clicked.",
                 "technologies":["HTML", "CSS", "JavaScript"],
@@ -10,7 +10,7 @@
                 "image_urls": ["project1a.PNG", "project1b.PNG", "project1c.PNG"]
         },
         {
-                "id": 1,
+                "id": 5,
                 "project_name":"JavaScript Pagination",
                 "description":"Pagination enhances the usability of a web page that is displaying way too much information all at once. Long lists don't make for a good user experience on a web page.",
                 "technologies":["HTML", "CSS", "JavaScript"],
@@ -46,7 +46,7 @@
                 "image_urls":["project5a.PNG", "project5b.PNG", "project5c.PNG"]
         },
         {
-                "id": 5,
+                "id": 1,
                 "project_name":"Libary Manager",
                 "description":"This project connects to a remote API to download randomized fake employee JSON data.  The JSON data is parsed and displayed in a directory.  The directory features a search function and a detailed employee modal view.",
                 "technologies":["HTML", "CSS", "JavaScript", "API", "JSON"],
@@ -55,7 +55,7 @@
                 "image_urls":["project5a.PNG", "project5b.PNG", "project5c.PNG"]
         },
         {
-                "id": 6,
+                "id": 0,
                 "project_name":"React App",
                 "description":"This project connects to a remote API to download randomized fake employee JSON data.  The JSON data is parsed and displayed in a directory.  The directory features a search function and a detailed employee modal view.",
                 "technologies":["HTML", "CSS", "JavaScript", "API", "JSON"],
